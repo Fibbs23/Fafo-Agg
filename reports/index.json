@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-201508-tw15",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "dateStart": "2026-05-02T02:15:08.000Z",
+      "dateEnd": "2026-05-02T03:58:19.000Z",
+      "dateLabel": "5/1/2026, 8:15:08 PM - 5/1/2026, 9:58:19 PM",
+      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260501-201508-tw15",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260428-175726-brgu",
       "title": "Lightspeed Jack",
       "commanders": [
