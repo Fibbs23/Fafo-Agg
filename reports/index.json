@@ -1,172 +1,140 @@
-{
-  "colorPalette": "gold-bronze",
-  "glassSurfaces": false,
-  "entries": [
-    {
-      "id": "20260505-181030-98il",
-      "title": "Gear Check For Bads",
-      "commanders": [
-        "Gear Check For Bads"
+[
+  {
+    "id": "20260503-180610-ddra",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-05-04T00:06:10.000Z",
+    "dateEnd": "2026-05-04T02:06:04.000Z",
+    "dateLabel": "5/3/2026, 6:06:10 PM - 5/3/2026, 8:06:04 PM",
+    "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260503-180610-ddra",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 30,
+          "color": "#3b82f6"
+        }
       ],
-      "dateStart": "2026-05-06T00:10:30.000Z",
-      "dateEnd": "2026-05-06T01:02:25.000Z",
-      "dateLabel": "5/5/2026, 6:10:30 PM - 5/5/2026, 7:02:25 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260505-181030-98il",
-      "summary": {
-        "borderlandsPct": 0.22727272727272727,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 17,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 59
-      }
-    },
-    {
-      "id": "20260503-180610-ddra",
-      "title": "Lightspeed Jack",
-      "commanders": [
-        "Lightspeed Jack"
-      ],
-      "dateStart": "2026-05-04T00:06:10.000Z",
-      "dateEnd": "2026-05-04T02:06:04.000Z",
-      "dateLabel": "5/3/2026, 6:06:10 PM - 5/3/2026, 8:06:04 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260503-180610-ddra",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 30,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 40,
-        "avgEnemySize": 43
-      }
-    },
-    {
-      "id": "20260501-201508-tw15",
-      "title": "Charrmander Harasho",
-      "commanders": [
-        "Charrmander Harasho"
-      ],
-      "dateStart": "2026-05-02T02:15:08.000Z",
-      "dateEnd": "2026-05-02T03:58:19.000Z",
-      "dateLabel": "5/1/2026, 8:15:08 PM - 5/1/2026, 9:58:19 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260501-201508-tw15",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 25,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 46,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260428-175726-brgu",
-      "title": "Lightspeed Jack",
-      "commanders": [
-        "Lightspeed Jack"
-      ],
-      "dateStart": "2026-04-28T23:57:26.000Z",
-      "dateEnd": "2026-04-29T01:23:47.000Z",
-      "dateLabel": "4/28/2026, 5:57:26 PM - 4/28/2026, 7:23:47 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260428-175726-brgu",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260426-182639-8p11",
-      "title": "Lightspeed Jack",
-      "commanders": [
-        "Lightspeed Jack"
-      ],
-      "dateStart": "2026-04-27T00:26:39.000Z",
-      "dateEnd": "2026-04-27T01:39:47.000Z",
-      "dateLabel": "4/26/2026, 6:26:39 PM - 4/26/2026, 7:39:47 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260426-182639-8p11",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260429-181008-r94o",
-      "title": "Fíbbs",
-      "commanders": [
-        "Fíbbs"
-      ],
-      "dateStart": "2026-04-30T00:10:08.000Z",
-      "dateEnd": "2026-04-30T01:20:56.000Z",
-      "dateLabel": "4/29/2026, 6:10:08 PM - 4/29/2026, 7:20:56 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260429-181008-r94o",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 6,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260424-201034-rpit",
-      "title": "Fíbbs",
-      "commanders": [
-        "Fíbbs"
-      ],
-      "dateStart": "2026-04-25T02:10:34.000Z",
-      "dateEnd": "2026-04-25T03:34:39.000Z",
-      "dateLabel": "4/24/2026, 8:10:34 PM - 4/24/2026, 9:34:39 PM",
-      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260424-201034-rpit",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 13,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 47,
-        "avgEnemySize": 42
-      }
+      "avgSquadSize": 40,
+      "avgEnemySize": 43
     }
-  ]
-}
+  },
+  {
+    "id": "20260501-201508-tw15",
+    "title": "Charrmander Harasho",
+    "commanders": [
+      "Charrmander Harasho"
+    ],
+    "dateStart": "2026-05-02T02:15:08.000Z",
+    "dateEnd": "2026-05-02T03:58:19.000Z",
+    "dateLabel": "5/1/2026, 8:15:08 PM - 5/1/2026, 9:58:19 PM",
+    "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260501-201508-tw15",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 25,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 46,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260428-175726-brgu",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-04-28T23:57:26.000Z",
+    "dateEnd": "2026-04-29T01:23:47.000Z",
+    "dateLabel": "4/28/2026, 5:57:26 PM - 4/28/2026, 7:23:47 PM",
+    "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260428-175726-brgu",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260426-182639-8p11",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-04-27T00:26:39.000Z",
+    "dateEnd": "2026-04-27T01:39:47.000Z",
+    "dateLabel": "4/26/2026, 6:26:39 PM - 4/26/2026, 7:39:47 PM",
+    "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260426-182639-8p11",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260429-181008-r94o",
+    "title": "Fíbbs",
+    "commanders": [
+      "Fíbbs"
+    ],
+    "dateStart": "2026-04-30T00:10:08.000Z",
+    "dateEnd": "2026-04-30T01:20:56.000Z",
+    "dateLabel": "4/29/2026, 6:10:08 PM - 4/29/2026, 7:20:56 PM",
+    "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260429-181008-r94o",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 6,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260424-201034-rpit",
+    "title": "Fíbbs",
+    "commanders": [
+      "Fíbbs"
+    ],
+    "dateStart": "2026-04-25T02:10:34.000Z",
+    "dateEnd": "2026-04-25T03:34:39.000Z",
+    "dateLabel": "4/24/2026, 8:10:34 PM - 4/24/2026, 9:34:39 PM",
+    "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260424-201034-rpit",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 42
+    }
+  }
+]
