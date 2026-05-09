@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260508-200957-3wid",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-05-09T02:09:57.000Z",
+      "dateEnd": "2026-05-09T03:11:56.000Z",
+      "dateLabel": "5/8/2026, 8:09:57 PM - 5/8/2026, 9:11:56 PM",
+      "url": "https://Fibbs23.github.io/Fafo-Agg/?report=20260508-200957-3wid",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260506-180337-vlfn",
       "title": "Fíbbs",
       "commanders": [
